@@ -1,4 +1,4 @@
-ochakumiとは技術コミュニティです．代表は[@ishiyeahman](https://github.com/ishiyeahman)が現在務めています．
+ochakumiとは技術コミュニティです．代表は石山遼が現在務めています．
 - [参加について](join.md)
 - [メンバー](member.md)
 
