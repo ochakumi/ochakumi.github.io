@@ -2,9 +2,12 @@
 ## 参加条件
 - 明和寮生である，または明和寮生であった人
   - ここでの明和寮とは熊本高等専門学校熊本キャンパスの学生寮を指す
-- (技術に対して興味関心がある人)
+- @ishiyeahman もしくは @orrepic と面識がある人
+- 技術に対して興味関心がある人
 
 ## 参加特典
 - Discordサーバーに参加できる
 - [GitHub Organization](https://github.com/ochakumi)のメンバーになることができる
+- [Zenn Publication](https://zenn.dev/p/ochakumi)のメンバーとして投稿できる
+- ochakumi.comのサブドメインを自由に使える
 > どれも要らない特典ばかり！
