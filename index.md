@@ -4,9 +4,8 @@ ochakumiとは技術コミュニティです．代表は石山が現在務めて
 - [メンバー](member.md)
 
 ## News
-**2022年5月2日** 浦上がochakumiと名付けました
-
-**2022年2月24日** 石山がochakumiを作りました
+- 2022/5/2 浦上がochakumiと名付けました
+- 2022/2/24 石山がochakumiを作りました
 
 ## Link
 - [Github Organization](https://github.com/ochakumi/){:target="_blank"}
