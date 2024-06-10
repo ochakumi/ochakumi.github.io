@@ -8,3 +8,4 @@
 - Yu Irie
 - Ryusei Shimoishi
 - Ryosei Goto
+- Haruki Nakamura
