@@ -7,3 +7,4 @@
 - Junya Honda [[Web](https://jhonda.ochakumi.com/){:target="_blank"}]
 - Yu Irie
 - Ryusei Shimoishi
+- Ryosei Goto
