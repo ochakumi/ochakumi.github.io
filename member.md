@@ -8,4 +8,4 @@
 - Yu Irie
 - Ryusei Shimoishi
 - Ryosei Goto
-- Haruki Nakamura
+- Haruki Nakamura [[Web](https://kinn-kinn.com/){:target="_blank"}]
