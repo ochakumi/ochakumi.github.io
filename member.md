@@ -9,3 +9,4 @@
 - Ryusei Shimoishi
 - Ryosei Goto
 - Haruki Nakamura [[Web](https://kinn-kinn.com/){:target="_blank"}]
+- Kazuki Nagamatsu
